@@ -21,3 +21,6 @@ line_delay 2
 
 channels "#default_channel"
 
+to start type /ftpserver start
+
+to stop type /ftpserver stop
