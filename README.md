@@ -3,22 +3,21 @@ Hexchat-FTP-Server-AddOn - Working FTP/SFTP advertise script for hexchat written
 
 works with /ftpserver set with the below commands:
 
-"ip": "127.0.0.1",
+ip "127.0.0.1"
 
-"username": "anonymous",
+username "anonymous"
 
-"password": "anonymous",
+password "anonymous"
 
-"port": "21",
+port "21"
 
-"encryption": "None",
+encryption "None"
 
-"message": "Welcome to FTP server!",
+message "Welcome to FTP server!"
 
-"message_interval": 60,
+message_interval 60
 
-"line_delay": 2,
+line_delay 2
 
-"channels": ["#default_channel"]
+channels "#default_channel"
 
-Let me know your feedback or suggestions for changes/improvements.
