@@ -24,3 +24,26 @@ works with /ftpserver set with the below commands:
 to start type **/ftpserver start**
 
 to stop type **/ftpserver stop**
+
+It's HIGHLY recommended to use a enterprise grade FTP/SFTP server software like Cerberus FTP Enterprise server 12.7.3+ with TLS 1.2 or higher, no SSL as it is deprecated. Use the below config methods:
+
+Configuring FTP/SFTP properly:
+------------------------------
+
+https://support.cerberusftp.com/hc/en-us/articles/360000499020-Securing-Cerberus-FTP-Server-Best-Practices-for-Enhanced-Security
+
+https://support.cerberusftp.com/hc/en-us/articles/360001686939-Security-Settings
+
+https://en.wikipedia.org/wiki/Transport_Layer_Security#History_and_development
+
+https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/
+
+Dynamic DNS providers:
+----------------------
+
+www.noip.com
+
+https://account.dyn.com/
+
+https://www.cloudflare.com/learning/dns/glossary/dynamic-dns/
+
